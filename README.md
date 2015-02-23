@@ -1,5 +1,5 @@
-# Facial points using Caffe
-Facial keypoints extraction using Caffe
+# Facial points using Caffe Deep Learning
+Facial keypoints extraction using Caffe for kaggle competition
 
 #How to Run
 python fkp.py
