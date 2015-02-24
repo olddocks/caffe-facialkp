@@ -5,7 +5,7 @@ This problem is a classic multilabel regression problem to solve. The kaggle CSV
 #Description of Files
 ```
 fkp.py -> to write and prepare all data to hd5
-./facialkp -> Run the caffe model
+facialkp -> Run the caffe model
 output.py -> Predict and plot graphs in simple 64 batches. it writes into csv
 solver.prototxt – > Edit this for maximum iterations, gamma, learning rate etc.
 facialkp.prototxt -> Layer file for training
